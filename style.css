@@ -1,0 +1,13 @@
+.bg-color{
+    background: linear-gradient(120deg, #0c84b4, #F4722B);
+    background-size: 100%;
+}
+
+
+.noto-sans-ol {
+  font-family: "Noto Sans Ol Chiki", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: #1e201ec8  ;
+}
+
