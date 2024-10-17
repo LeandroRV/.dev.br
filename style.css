@@ -1,13 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
 .bg-color{
-    background: linear-gradient(120deg, #0c84b4, #F4722B);
+    background: linear-gradient(270deg, #0c44b4, #5f615f);
     background-size: 100%;
 }
 
 
 .noto-sans-ol {
-  font-family: "Noto Sans Ol Chiki", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
   color: #1e201ec8  ;
 }
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size: 35px;
+  font-style: normal;
+}
+
 
